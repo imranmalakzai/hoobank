@@ -1,4 +1,4 @@
-import { quotes } from "../assets"
+import { quotes } from "../assets/index.js"
 const Feedback = ({name,title,content,img}) =>(
     <div className="text-white bg-quote feedback-card max-w-sm p-4 rounded-2xl flex flex-col justify-center ">
       <img src={quotes} alt="quote"  height={22} width={42}/>

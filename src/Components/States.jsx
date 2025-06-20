@@ -1,6 +1,6 @@
 
 import styles from "../style"
-import {stats} from '../constants/index'
+import {stats} from '../Constants/index.js'
 const States = () => (
   <section className="flex flex-row justify-evenly flex-wrap text-white">
     {

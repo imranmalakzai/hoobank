@@ -1,5 +1,5 @@
 import {styles} from '../styles'
-import {services} from '../Constants'
+import {services} from '../Constants/index.js'
 const Services = () => {
   return (
     <section className={`${styles.Layout} mt-20`}>

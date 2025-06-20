@@ -1,4 +1,4 @@
-import { feedback } from "../constants"
+import { feedback } from "../Components/index.js"
 import Feedback from "./Feedback"
 
 const Testimonials = () => 

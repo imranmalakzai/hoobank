@@ -1,6 +1,6 @@
 import React from 'react'
 import Button from './Button'
-import {features} from '../constants/index'
+import {features} from "../Constants/index.js"
 
 function Business() {
   return (
