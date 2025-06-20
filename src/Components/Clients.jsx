@@ -1,4 +1,5 @@
-import { clients } from "../constants"
+import { clients } from "../constants/index.js"
+
 const Clients = () => (
   <section id="Clients" className="flex flex-row justify-between mt-10 flex-wrap">
     {clients.map((client)=> (
